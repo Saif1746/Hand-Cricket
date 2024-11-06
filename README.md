@@ -74,4 +74,4 @@ The program is organized into six functions, including the main() function, whic
 
 ---
 
-This program is a fun and simple way to relive the joy of playing Hand Cricket, bringing a nostalgic game into the world of programming. Whether you're a beginner learning Python or an experienced coder, this project serves as a great example of how to combine game logic with basic programming concepts.
+
